@@ -1,14 +1,14 @@
 #InstallKeybdHook
 ecm_active_duration:=	7
-ecm_reload_duration:=	30
-prog_active_1=			FFFF00
-prog_active_2=			FFA500
-prog_reload_1=			Green
-prog_reload_2=			Red
-bf4_color=				2E81AC
+ecm_reload_duration:=	13
+prog_active_1=		FFFF00
+prog_active_2=		FFA500
+prog_reload_1=		Green
+prog_reload_2=		Red
+bf4_color=		2E81AC
 ;Screen startup position
-st_x=					2115
-st_y=					829
+st_x=			2115
+st_y=			829
 
 
 CoordMode, Menu, Screen
